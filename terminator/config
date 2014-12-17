@@ -1,0 +1,10 @@
+
+# this ist a config file for the terminator terminal emulator
+[profiles]
+[[default]]
+show_titlebar = false
+borderless = True
+allow_bold = True
+visible_bell = True
+urgent_bell = True
+font = Monospace 14
